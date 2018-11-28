@@ -17,6 +17,6 @@ iqod(array)
 Output:
 
 ```
-5
+4
 6
 ```
